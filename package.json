@@ -1,0 +1,22 @@
+{
+  "name": "odin-battleship",
+  "version": "1.0.0",
+  "description": "An implementation of the classic game 'Battleship' using TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightningwind/odin-battleship.git"
+  },
+  "author": "David Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightningwind/odin-battleship/issues"
+  },
+  "homepage": "https://github.com/lightningwind/odin-battleship#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
